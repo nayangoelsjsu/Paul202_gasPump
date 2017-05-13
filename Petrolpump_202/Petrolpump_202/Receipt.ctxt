@@ -1,7 +1,15 @@
 #BlueJ class context
 comment0.target=Receipt
 comment0.text=\n\ Write\ a\ description\ of\ class\ Receipt\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\n\ Act\ -\ do\ whatever\ the\ Receipt\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
-numComments=2
+comment1.params=world
+comment1.target=Receipt(greenfoot.World)
+comment2.params=
+comment2.target=void\ viewRender()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ PrintReceipt\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ print()
+comment5.params=
+comment5.target=void\ playReceiptSoundInBackground()
+numComments=6
